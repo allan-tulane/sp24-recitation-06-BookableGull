@@ -10,7 +10,7 @@ Place all written answers from `recitation-07.md` here for easier grading.
 
 
 - **2)**
-W = O(n)
+W = O(2^n)
 
 - **3)**
 S = O(n)
